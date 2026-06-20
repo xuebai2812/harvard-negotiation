@@ -1,0 +1,9 @@
+{
+  "name": "harvard-negotiation",
+  "version": "0.1.0",
+  "description": "哈佛谈判术教练：用苏格拉底式分步提问摸清你的处境与对方，再一步步引导你制定原则式谈判策略，适配买房租房、离婚协议、离职补偿、加薪、商业合同等场景。",
+  "author": {
+    "name": "Shirley"
+  },
+  "keywords": ["negotiation", "谈判", "哈佛谈判术", "BATNA", "离职补偿", "买房", "离婚协议"]
+}
