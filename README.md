@@ -1,6 +1,6 @@
 # 哈佛谈判术教练 (harvard-negotiation)
 
-> 把哈佛法学院谈判训练营（Harvard Negotiation Workshop）沉淀的最佳实践，变成一位随叫随到、会分步追问的谈判教练。
+> 把价值8万美金的哈佛法学院谈判训练营（Harvard Negotiation Workshop）沉淀的最佳实践，变成一位随叫随到、会分步追问的谈判教练。
 
 一个用于 Claude / Cowork 的谈判教练插件。它不替你拍板，而是用**苏格拉底式分步提问**帮你想清处境，再**一步步引导**你制定出可执行的谈判策略。
 
